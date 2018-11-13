@@ -11,9 +11,9 @@ services:
 - description: 'Programming in Java creating unique experiences for players. '
   heading: Minecraft
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: 'Utilizing Discord’s API to automate server moderation makes managing
+    a community a lot easier. '
+  heading: Discord
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: 'Swiftie, techie, and student. '
 textline: |
