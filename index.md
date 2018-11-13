@@ -8,15 +8,14 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: 'Programming in Java creating unique experiences for players. '
+  heading: Minecraft
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Programmer, Student, and Corgi Lover.
+sub_heading: 'Swiftie, techie, and student. '
 textline: |
   Belkirk College of Engineering
 
